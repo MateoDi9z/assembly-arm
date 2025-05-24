@@ -7,14 +7,14 @@ En una EC2 de aws ubuntu con ARM, utilizar:
 para compilar
 ```sh
 # Compile el programa
-$ as -g programa.s -o programa.o
-$ ld programa.o -o programa
+$ as -g program1.s -o program1.o
+$ ld program1.o -o program1
 ```
 
 para debugguear
 ```sh
 # Arranque GDB
-$ gdb programa
+$ gdb program1
 ```
 
 ### Lista de comandos de GDB

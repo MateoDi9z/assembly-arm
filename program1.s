@@ -1,10 +1,10 @@
-@   program1.s
-@   MateoDi9z
-@   Version - 1.0.0
-@   23/05/2025
-@
-@   Title - Practica 1
-@   Description - Contar los primeros 10 numeros del 1 al 10
+//   program1.s
+//   MateoDi9z
+//   Version - 1.0.0
+//   23/05/2025
+//
+//   Title - Practica 1
+//   Description - Contar los primeros 10 numeros del 1 al 10
 
 .global _start
 
